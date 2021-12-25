@@ -1,0 +1,18 @@
+.altura-msj-cons{
+    margin: 19rem 0 0 0;
+}
+
+.altura-login{
+    margin: 11rem 0 0 0;
+    padding-bottom: 190px;
+}
+
+.title{
+    font-size: 4rem;
+}
+
+@media (min-width: 768px) and (max-width: 1500px) {
+    #copyright {
+        padding: 0 30% 0 30%;
+    }
+}
